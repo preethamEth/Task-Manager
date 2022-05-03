@@ -3,6 +3,7 @@ import {
   faTwitter,
   faLinkedin,
   faDiscord,
+  faGithub
 } from "@fortawesome/free-brands-svg-icons";
 const SocialMedia = () => {
   return (
